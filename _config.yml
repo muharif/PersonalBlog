@@ -89,7 +89,7 @@ footer:
       icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/muarif/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.se/citations?user=i8W5ttgAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
