@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/muharif"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/muarif/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square ai-3x"
