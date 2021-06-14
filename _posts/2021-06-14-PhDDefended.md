@@ -14,13 +14,13 @@ Alhamdulillah wa Syukurillah, a phrase that I have been reciting for the past fe
 
 On Friday, 11 June 2021, I succesfully defended my PhD Thesis! It's been my lifelong dream and finally, on that day, I became Dr. Muhammad Arif. :) The defense was really interesting and, I would say now, fun. I had amazing faculty opponent ([Prof. Dr. Thomas Sauter](https://wwwfr.uni.lu/recherche/fstm/dlsm/research_areas/systems_biology)) and evaluation committee members ([Dr. Claudia Kutter](https://ki.se/en/mtc/kutter-group-regulatory-transcriptions), [Assoc. Prof. Marc Friedländer](https://friedlanderlab.org/), and [Dr. David Moyes](https://www.kcl.ac.uk/people/david-moyes)) in my  defense, which made the discussions to be really good and interesting!
 
-![Thesis Cover]()
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/images/phddefended_cover.png">
 </p>
 
-This PhD journey has been really exciting, fun, and enjoyable. I've heard this cliché many times, but it's true, "finding good PhD advisor is more important than finding good PhD place or project". I was very lucky to get all 3: amazing supervisors, group, and projects! I have an amazing principal supervisor, Adil Mardinoglu, that supports me constantly, both as supervisor and as a friend. Not only that, I was lucky enough to have Prof. Dr. Mathias Uhlén as my co-supervisor, one of the most prominent figure in this field, with all his experience and amazing vision. There are too many people that I would like to mention and thank that I cannot mention one by one. I wrote some of them on the "Acknowledgements" section of my thesis (below), but for sure, this still cannot cover everyone.
+This PhD journey has been really exciting, fun, and enjoyable. I've heard this cliché many times, but it's true, "finding good PhD advisor is more important than finding good PhD place or project". I was very lucky to get all 3: amazing supervisors, group, and projects! 
+
+I have an amazing principal supervisor, Adil Mardinoglu, that supports me constantly, both as supervisor and as a friend. Not only that, I was lucky enough to have Prof. Dr. Mathias Uhlén as my co-supervisor, one of the most prominent figure in this field, with all his experience and amazing vision. There are too many people that I would like to mention and thank that I cannot mention one by one. I wrote some of them on the "Acknowledgements" section of my thesis (below), but for sure, this still cannot cover everyone.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/images/phddefended_ack.png">
