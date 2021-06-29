@@ -17,32 +17,34 @@ Details:
 
 Interested? Contact me directly/Intresserad? Kontakta mig @ muharif132 [at] gmail.com or 0720188003
 
-Living Room/Vardagsrum
+## Living Room/Vardagsrum
 
 ![LR3](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_3.jpg)
 ![LR2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_1.jpg)
 ![LR1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_2.jpg)
 
-Bedroom/Sovrum 1
+## Bedroom/Sovrum 1
 
 ![BR11](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum1_1.jpg)
 ![BR12](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum1_2.jpg)
 
-Bedroom/Sovrum 2
+## Bedroom/Sovrum 2
 
 ![BR21](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum2_1.jpg)
 ![BR22](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum2_2.jpg)
 
-Kitchen/Kök
+## Kitchen/Kök
 
 ![K1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/kok_1.jpg)
 
-Balcony/Balkong
+## Balcony/Balkong
 
 ![B1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/kok_1.jpg)
 
-Others/Ovrigt
+## Others/Ovrigt
 
-![O](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/pano_1.jpg)
+![O1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/plan.jpg)
+
+![O2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/pano_1.jpg)
 
 
