@@ -43,7 +43,7 @@ Interested? Contact me directly/Intresserad? Kontakta mig @ muharif132 [at] gmai
 
 ## Others/Ovrigt
 
-![O1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/plan.jpg)
+![O1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/plan.png)
 
 ![O2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/pano_1.jpg)
 
