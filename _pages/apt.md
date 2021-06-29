@@ -5,15 +5,23 @@ title: "Apartment Available for Rent"
 
 ## English
 
-We are planning to rent out apartment in [Barkarbystaden](https://barkarby.se/) from October 1st, 2021. We want to rent out the apartment for at least 1 year, with possibility for extension for 1 more year. It is a bright and fresh [3:a apartment](https://goo.gl/maps/KsAkYe7GNgKLiTyo9) on the top floor of the building with big balcony towards the garden. The location is right behind a huge ICA Maxi Barkarbystaden with 20 minutes walking distance to the Barkarby pendeltåg station or 7 minutes with bus. It has frequent direct buses to Akalla T-Bana station (6 minutes, every 5 minutes). It is also walking distance from a big shopping area, including IKEA, Stockholm Quality Outlet, Mediamarkt, etc. Moreover, it's few minutes walking distance from Järvafältet, a huge nature reserve park. For family with kids, it is surrounded by several playgrounds, including one in the inner garden of the apartment.
+We are planning to rent out apartment in [Barkarbystaden](https://barkarby.se/) from October 1st, 2021. We want to rent out the apartment for at least 1 year, with possibility for extension for 1 more year. It is a bright and fresh [3:a apartment](https://goo.gl/maps/KcUe1YFgSP7bsPkt9) on the top floor of the building with big balcony towards the garden. The location is right behind a huge ICA Maxi Barkarbystaden with 20 minutes walking distance to the Barkarby pendeltåg station or 7 minutes with bus. It has frequent direct buses to Akalla T-Bana station (6 minutes, every 5 minutes). It is also walking distance from a big shopping area, including IKEA, Stockholm Quality Outlet, Mediamarkt, etc. Moreover, it's few minutes walking distance from Järvafältet, a huge nature reserve park. For family with kids, it is surrounded by several playgrounds, including one in the inner garden of the apartment.
 
 ## Svenska
 
-Nu tänkte vi att hyra ut vår lagenhet i [Barkarbystaden](https://barkarby.se/) fr.o.m 1 October 2021 och minst 1 år med möjlighet till förlängning. Lagenheten är [en ljus och fräch 3:a](https://goo.gl/maps/KsAkYe7GNgKLiTyo9) högst upp i huset med stor balkong. Den ligger precis bakom ICA Maxi Barkarbystaden med 20 minuter promerad till pendeltåget (7 minuter med buss). Det finns även en direkt buss som går till Akalla tunnelbana station (6 minuter, varje 5 minuter). I närheten så finns Barkarby handelsplats (IKEA, Quality Outlet, Mediamarkt osv), gym, lekpark, och Järvafältet naturreservat med bara några minuters gångavstånd.
+Nu tänkte vi att hyra ut vår lagenhet i [Barkarbystaden](https://barkarby.se/) fr.o.m 1 October 2021 och minst 1 år med möjlighet till förlängning. Lagenheten är [en ljus och fräch 3:a](https://goo.gl/maps/KcUe1YFgSP7bsPkt9) högst upp i huset med stor balkong. Den ligger precis bakom ICA Maxi Barkarbystaden med 20 minuter promerad till pendeltåget (7 minuter med buss). Det finns även en direkt buss som går till Akalla tunnelbana station (6 minuter, varje 5 minuter). I närheten så finns Barkarby handelsplats (IKEA, Quality Outlet, Mediamarkt osv), gym, lekpark, och Järvafältet naturreservat med bara några minuters gångavstånd.
+
+## Interested?/Intresserad?
+
+Muhammad Arif
+
+muharif132 [at] gmail.com
+
+0720188003
 
 ## Details
 
-* Address/Adress: [Majorvägen 14A, Järfälla](https://goo.gl/maps/KsAkYe7GNgKLiTyo9)
+* Address/Adress: [Majorvägen, Järfälla](https://goo.gl/maps/KcUe1YFgSP7bsPkt9)
 * Floor/Våning: 6 (top/hogst)
 * Size/Storlek: 62.5 kvm
 * Moving date/Inflyttnngsdatum: 1 October 2021
@@ -23,15 +31,7 @@ Nu tänkte vi att hyra ut vår lagenhet i [Barkarbystaden](https://barkarby.se/)
 
 ## Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2030.0556597431091!2d17.864109916075797!3d59.415466481689016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9f6defe76c71%3A0xddf96c45f888ae62!2zTWFqb3JzdsOkZ2VuIDE0YSwgMTc3IDM4IErDpHJmw6RsbGE!5e0!3m2!1sen!2sse!4v1624981020232!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-## Interested?/Intresserad?
-
-Muhammad Arif
-
-muharif132 [at] gmail.com
-
-0720188003
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2030.066174566997!2d17.862601716075787!3d59.415291081689!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9f6deeed94cd%3A0x6489bfd7bad9fb9a!2zTWFqb3JzdsOkZ2VuLCBKw6RyZsOkbGxh!5e0!3m2!1sen!2sse!4v1624981240768!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Living Room/Vardagsrum
 
