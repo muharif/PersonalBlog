@@ -13,11 +13,17 @@ Nu tänkte vi att hyra ut vår lagenhet i [Barkarbystaden](https://barkarby.se/)
 
 ## Details
 
+* Address/Adress: [Majorvägen 14A, Järfälla](https://goo.gl/maps/KsAkYe7GNgKLiTyo9)
+* Floor/Våning: 6 (top/hogst)
 * Size/Storlek: 62.5 kvm
 * Moving date/Inflyttnngsdatum: 1 October 2021
 * Furnished/Möblerat (Can be discussed/Kan diskuteras)
 * Own dishwasher, laundry, and drier machine/Disk-, tvätt-, och torkmaskin i lagenheten
 * Full kitchen with extra freezer and microwave/Fullt uttrustat kök med extra frys och mikro.
+
+## Map
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2030.0556597431091!2d17.864109916075797!3d59.415466481689016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9f6defe76c71%3A0xddf96c45f888ae62!2zTWFqb3JzdsOkZ2VuIDE0YSwgMTc3IDM4IErDpHJmw6RsbGE!5e0!3m2!1sen!2sse!4v1624981020232!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## Interested?/Intresserad?
 
