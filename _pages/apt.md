@@ -36,31 +36,42 @@ muharif132 [at] gmail.com
 ## Living Room/Vardagsrum
 
 ![LR3](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_3.jpg)
+![LR4](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_4.jpg)
 ![LR2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_1.jpg)
 ![LR1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/vardag_2.jpg)
 
 ## Bedroom/Sovrum 1
 
 ![BR11](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum1_1.jpg)
-![BR12](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum1_2.jpg)
 
 ## Bedroom/Sovrum 2
 
 ![BR21](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum2_1.jpg)
 ![BR22](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/sovrum2_2.jpg)
 
+## Sliding Door Between the Bedrooms/Skjutdörren mellan sovrumen
+
+![MS1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/mellansovrum_1.jpg)
+![MS2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/mellansovrum_2.jpg)
+
 ## Kitchen/Kök
 
 ![K1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/kok_1.jpg)
+![K2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/kok_2.jpg)
 
 ## Balcony/Balkong
 
-![B1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/kok_1.jpg)
+![B1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/balkong_1.jpg)
+![B2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/balkong_2.jpg)
+
 
 ## Others/Ovrigt
 
 ![O1](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/plan.png)
-
+![O5](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/byggnaden.jpg)
 ![O2](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/pano_1.jpg)
+![O3](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/pano_2.jpg)
+![O4](https://raw.githubusercontent.com/muharif/PersonalBlog/master/assets/apt/tvmsk.jpg)
+
 
 
