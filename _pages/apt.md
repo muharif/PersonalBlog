@@ -11,6 +11,17 @@ We are planning to rent out apartment in [Barkarbystaden](https://barkarby.se/) 
 
 Nu tänkte vi att hyra ut vår lagenhet i [Barkarbystaden](https://barkarby.se/) fr.o.m 1 October 2021 och minst 1 år med möjlighet till förlängning. Lagenheten är [en ljus och fräch 3:a](https://goo.gl/maps/KcUe1YFgSP7bsPkt9) högst upp i huset med stor balkong. Den ligger precis bakom ICA Maxi Barkarbystaden med 20 minuter promerad till pendeltåget (7 minuter med buss). Det finns även en direkt buss som går till Akalla tunnelbana station (6 minuter, varje 5 minuter). I närheten så finns Barkarby handelsplats (IKEA, Quality Outlet, Mediamarkt osv), gym, lekpark, och Järvafältet naturreservat med bara några minuters gångavstånd.
 
+## Rental Price/Hyra
+
+11300 SEK (excl. Electricity, TV, & Internet) with 2 months deposition.
+
+We can do direct contract or, if you prefer, use [Blocket Bostad contracts](https://support.bostad.blocket.se/hc/sv/articles/360052201012), so they will take care of the contract, deposition, and payments (there will be extra monthly cost around 220 SEK)
+
+11300 SEK (exkl. El, TV, & Internet) och 2 mån deposition.
+
+Vi kan signera avtalet direkt eller via [Blocket Bostad](https://support.bostad.blocket.se/hc/sv/articles/360052201012), de tar hand om deposition och betalningar med extra avgift 220 SEK/månad.
+
+
 ## Interested?/Intresserad?
 
 Muhammad Arif
