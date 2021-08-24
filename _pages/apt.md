@@ -13,11 +13,11 @@ Nu tänkte vi att hyra ut vår lagenhet i [Barkarbystaden](https://barkarby.se/)
 
 ## Rental Matters
 
-1.5 months depositions. Notice Period: 3 months
+11300 SEK (excl. Electricity, TV, & Internet) with 1.5 months depositions. Notice Period: 3 months
 
 We can do direct contract or, if you prefer, use [Blocket Bostad contracts](https://support.bostad.blocket.se/hc/sv/articles/360052201012), so they will take care of the contract, deposition, and payments (there will be extra monthly cost around 220 SEK)
 
-1.5 mån hyror deposition. Uppsägningstid: 3 mån
+11300 SEK (exkl. El, TV, & Internet) och 1.5 mån hyror deposition. Uppsägningstid: 3 mån
 
 Vi kan signera avtalet direkt eller via [Blocket Bostad](https://support.bostad.blocket.se/hc/sv/articles/360052201012), de tar hand om deposition och betalningar med extra avgift 220 SEK/månad.
 
