@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Muhammad Arif"
   avatar : "/assets/images/pp.jpg"
-  bio    : "PhD in Systems Biology of Human Diseases (KTH Royal Institute of Technology & Science for Life Laboratory)"
+  bio    : "Postdoctoral Fellow"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
