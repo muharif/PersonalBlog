@@ -2,7 +2,7 @@
 title: "What is happening during a heart attack?"
 date: 2021-05-20
 categories:
-  - blog
+  - science
 tags:
   - work
   - heart disease

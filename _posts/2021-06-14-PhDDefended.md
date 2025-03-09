@@ -2,7 +2,7 @@
 title: "PhD: Defended!"
 date: 2021-06-14
 categories:
-  - news
+  - blog
 tags:
   - PhD
   - systems biology

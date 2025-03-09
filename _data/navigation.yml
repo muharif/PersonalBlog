@@ -1,5 +1,9 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Categories"
+    url: /categories/
   - title: "Disclaimer"
     url: /disclaimer/
+  - title: "About"
+    url: https://muharif.net/#about

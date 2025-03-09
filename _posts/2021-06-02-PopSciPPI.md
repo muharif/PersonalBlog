@@ -2,7 +2,7 @@
 title: "Popular Science Conference #1 PPI Swedia"
 date: 2021-06-02
 categories:
-  - news
+  - blog
 tags:
   - popsci
   - heart disease
