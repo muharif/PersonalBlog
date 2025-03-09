@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Muhammad Arif"
   avatar : "/assets/images/pp.jpg"
-  bio    : "Postdoctoral Fellow"
+  bio    : "Researcher"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
